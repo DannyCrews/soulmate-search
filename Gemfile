@@ -32,7 +32,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 gem 'rack-contrib', '~> 1.4'
-gem 'soulmate', '~> 1.1'
+gem 'soulmate', require: 'soulmate/server'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

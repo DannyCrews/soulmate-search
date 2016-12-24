@@ -173,7 +173,7 @@ DEPENDENCIES
   rails (= 4.2.2)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
-  soulmate (~> 1.1)
+  soulmate
   spring
   sqlite3
   turbolinks
